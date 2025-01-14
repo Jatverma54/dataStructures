@@ -5,12 +5,21 @@ This repository contains implementations of various data structures and sorting 
 
 
 Linked List
+
 Singly Linked List
+
 Doubly Linked List
+
 Stack
+
 Queue
+
 Hash Table
+
 Binary Search Tree
+
 Graph
+
 Heap
+
 Sorting algorithms
